@@ -1,4 +1,4 @@
-#**galliumos3-in-virtualbox**
+#**galliumos3-in-virtualbox**#
 
 So I use Gallium OS 3 on a 2018 Acer Chromebook R11 which is serving me pretty well as a lightweight laptop and Android replacement. Price wise these can be had for ~$250 and have a nice 11" touch screen. A high end Samsung tablet or Apple iPad costs a lot more and does a lot less in my opinion.
 
